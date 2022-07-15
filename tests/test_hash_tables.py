@@ -24,4 +24,4 @@ def test_no_intersection():
     arr2 = [3, 4, 5]
     res = find_intersection_arrays(arr1, arr2)
 
-    assert res
+    assert not res
