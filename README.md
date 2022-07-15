@@ -1,2 +1,3 @@
 # al-go-rithms
-Revisiting popular algorithms with Go
+
+Solutions to exercises from the excellent "A common sense to Data Structure and Algorithms" book" by Jay Wengrow.
